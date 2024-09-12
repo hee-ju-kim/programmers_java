@@ -16,3 +16,5 @@
   | 0     | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/StringExample.java)                                                                                                      |20240911|
   | 0     | [ad 제거하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/Exam2.java)                                                                                       |20240911|
 </details>
+
+test
