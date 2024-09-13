@@ -15,6 +15,8 @@
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
   | 0     | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/StringExample.java)                                                                                                      |20240911|
   | 0     | [ad 제거하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/Exam2.java)                                                                                       |20240911|
+  | 0     | [두 수의 합](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SumNumber.java)                                                                                       |20240913|
+  | 0     | [공백으로 구분하기 1](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SplitStr.java)                                                                                       |20240913|
 </details>
 
 test
