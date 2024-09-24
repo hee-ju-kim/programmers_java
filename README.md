@@ -4,17 +4,15 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hee-ju-kim/programmers_java)
 ![GitHub top language](https://img.shields.io/github/languages/top/hee-ju-kim/programmers_java?color=yellow&logo=Java)
 
-
-> 참여자 1명
-[김희주](https://github.com/hee-ju-kim)
-
 <details>
   <summary>리스트</summary>
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
-  | 0     | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/StringExample.java)                                                                                                      |20240911|
-  | 0     | [ad 제거하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/Exam2.java)                                                                                       |20240911|
+  | 0     | [0 떼기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/Remove0.java)                                                                                       |20240922|
+  | 0     | [접미사인지 확인하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/CheckSuffixes.java)                                                                                       |20240922|
   | 0     | [두 수의 합](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SumNumber.java)                                                                                       |20240913|
   | 0     | [공백으로 구분하기 1](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SplitStr.java)                                                                                       |20240913|
+  | 0     | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/StringExample.java)                                                                                                      |20240911|
+  | 0     | [ad 제거하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240911/src/Exam2.java)                                                                                       |20240911|
 </details>
