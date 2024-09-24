@@ -9,6 +9,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 0     | [정수 출력](https://github.com/hee-ju-kim/programmers_java/blob/main/20240924/src/PrintInt.java)                                                                                       |20240924|
   | 0     | [0 떼기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/Remove0.java)                                                                                       |20240922|
   | 0     | [접미사인지 확인하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/CheckSuffixes.java)                                                                                       |20240922|
   | 0     | [두 수의 합](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SumNumber.java)                                                                                       |20240913|
