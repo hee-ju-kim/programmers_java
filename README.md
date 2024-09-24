@@ -18,5 +18,3 @@
   | 0     | [두 수의 합](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SumNumber.java)                                                                                       |20240913|
   | 0     | [공백으로 구분하기 1](https://github.com/hee-ju-kim/programmers_java/blob/main/20240913/src/SplitStr.java)                                                                                       |20240913|
 </details>
-
-test
