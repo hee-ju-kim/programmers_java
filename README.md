@@ -9,6 +9,8 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 0     | [같은 숫자는 싫어](https://github.com/hee-ju-kim/programmers_java/tree/main/20241119)                                                                                       |20241119|
+  | 0     | [정수 출력](https://github.com/hee-ju-kim/programmers_java/blob/main/20240924/src/PrintInt.java)                                                                                       |20240924|
   | 0     | [정수 출력](https://github.com/hee-ju-kim/programmers_java/blob/main/20240924/src/PrintInt.java)                                                                                       |20240924|
   | 0     | [0 떼기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/Remove0.java)                                                                                       |20240922|
   | 0     | [접미사인지 확인하기](https://github.com/hee-ju-kim/programmers_java/blob/main/20240922/src/CheckSuffixes.java)                                                                                       |20240922|
