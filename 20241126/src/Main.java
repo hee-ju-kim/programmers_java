@@ -5,7 +5,12 @@ public class Main {
     public static int solution(int[] priorities, int location) {
         Queue<Integer> queue = new LinkedList<>();
         Arrays.stream(priorities).forEach(e -> queue.add(e));
-        return 0;
+        int answer = 0;
+        while (!queue.isEmpty()) {
+
+        }
+        System.out.println(queue);
+        return answer;
     }
 
     public static void main(String[] args) {
